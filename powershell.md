@@ -53,3 +53,4 @@ _Les formations de la Microsoft Virtual Academy seront retirées le 30 Avril 201
 * [Gael Colas](https://gaelcolas.com/)
 * [Arnaud Petitjean](http://www.powershell-scripting.com/)
 * [Christophe Kumor](https://christophekumor.github.io/)
+* [Olivier Miossec](https://omiossec.github.io/)
